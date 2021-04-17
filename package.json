@@ -1,0 +1,21 @@
+{
+  "name": "18-Social-Network-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcc83267/18-Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcc83267/18-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/jcc83267/18-Social-Network-API#readme"
+}
