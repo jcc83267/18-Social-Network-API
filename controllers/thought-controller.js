@@ -107,7 +107,7 @@ const thoughtController = {
             .then(dbThoughtData => {
                 console.log(dbThoughtData)
                 console.log(params.reactionId)
-                res.json({message: 'you have deleted the reactionssss'})})
+                res.json({message: 'You have deleted the reaction'})})
             .catch(err => res.json(err));
     }
 };
