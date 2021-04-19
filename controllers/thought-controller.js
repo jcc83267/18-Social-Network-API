@@ -75,7 +75,7 @@ const thoughtController = {
                     { $pull: { thoughts: params.thoughtId } },
                     { new: true }
                 )
-                    .then(dbThoughtData => res.json(dbThoughtData))
+                    .then(dbThoughtData => res.json({message: "Thought removed"}))
                     .catch(err => res.json(err));
             })
     },
