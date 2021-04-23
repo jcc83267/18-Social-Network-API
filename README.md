@@ -12,6 +12,6 @@ This is NoSQL project, that creates a backend infrastructire for Social Network 
 
 ## Links
 Link to Video DEMO    
-Video DEMO: [Demo Link](https://drive.google.com/file/d/15QpLg9tv-TD2SiFg03ePsTZy5hQ85vWp/view)   
+Video DEMO: [Demo Link](https://drive.google.com/file/d/1Ux52RQMQmGc_Qlm9ge_ZrbcK9KgpHaPu/view)   
 Link to Repo  
 Repo: [Repo Link](https://github.com/jcc83267/18-Social-Network-API)  
